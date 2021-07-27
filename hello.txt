@@ -6,5 +6,6 @@ hello GIT!
 hello GIT!
 hello GIT!
 hello GIT!
+<<<<<<< HEAD
 hello GIT! master test
-hello GIT!
+hello GIT! hot-fix test
